@@ -1,17 +1,3 @@
-## 数据统计
-
-### issue
-
-close 692 open 42
-
-### PR
-
-close 1122 open 8
-
-### start
-
-17k
-
 ## 快速启动
 
 ### 创建项目
