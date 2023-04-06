@@ -3,7 +3,6 @@
 ## 优先内容 / 工作事项
 
 * [ ] CKA学习
-* [ ] k8s container log watch
 * [ ] 完成异常标准化输出的方式
 * [ ] gateway context 拆分
 * [ ] gateway secret pkg调整
@@ -45,3 +44,4 @@
 * [x] 任务队列管理 -- asynq库或者 rocketMQ 能够实现
 * [x] 23/3/28 ACP 生产故障问题排查 &#x20;
 * [x] 单元测试课件编写
+* [x] k8s container log watch

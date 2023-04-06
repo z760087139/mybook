@@ -77,7 +77,7 @@
     * [核心阶段](xue-xi-ji-lu/yun-yuan-sheng/k8s/he-xin-jie-duan.md)
     * [kubeconfig](xue-xi-ji-lu/yun-yuan-sheng/k8s/kubeconfig.md)
     * [code-generator](xue-xi-ji-lu/yun-yuan-sheng/k8s/code-generator.md)
-    * [kubectl](xue-xi-ji-lu/yun-yuan-sheng/k8s/kubectl/README.md)
+    * [kubectl](xue-xi-ji-lu/yun-yuan-sheng/k8s/kubectl.md)
       * [kubectl logs pod](xue-xi-ji-lu/yun-yuan-sheng/k8s/kubectl/kubectl-logs-pod.md)
     * [kustomiza](xue-xi-ji-lu/yun-yuan-sheng/k8s/kustomiza.md)
   * [CKA](xue-xi-ji-lu/yun-yuan-sheng/cka/README.md)
