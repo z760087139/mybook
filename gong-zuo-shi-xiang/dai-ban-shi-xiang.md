@@ -4,7 +4,6 @@
 
 * [ ] CKA学习
 * [ ] k8s container log watch
-* [ ] 链接超时基准 -- kratos 框架的超时配置方式研究
 * [ ] 完成异常标准化输出的方式
 * [ ] gateway context 拆分
 * [ ] gateway secret pkg调整
@@ -44,4 +43,5 @@
 * [x] rancher 生成 kubeconfig 方式
 * [x] k8s 的 user 管理 与 rancher user 管理 webhook -- rancher authmiddlehandler 使用了 k8s default webhook ，通过 header 内容查找 token.userID ，userID 验证后把 rancher user 转换成 client-go k8s.userinfo 提供 default webhook 鉴权
 * [x] 任务队列管理 -- asynq库或者 rocketMQ 能够实现
-* [ ] 23/3/28 ACP 生产故障问题排查 &#x20;
+* [x] 23/3/28 ACP 生产故障问题排查 &#x20;
+* [x] 单元测试课件编写
