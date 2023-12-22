@@ -60,6 +60,7 @@
     * [内存管理](xue-xi-ji-lu/golang/ji-chu-zhi-shi/nei-cun-guan-li.md)
     * [Sync](xue-xi-ji-lu/golang/ji-chu-zhi-shi/sync.md)
     * [单元测试](xue-xi-ji-lu/golang/ji-chu-zhi-shi/dan-yuan-ce-shi.md)
+    * [版本更新内容](xue-xi-ji-lu/golang/ji-chu-zhi-shi/ban-ben-geng-xin-nei-rong.md)
   * [常用协议](xue-xi-ji-lu/golang/chang-yong-xie-yi/README.md)
     * [HTTPS](xue-xi-ji-lu/golang/chang-yong-xie-yi/https/README.md)
       * [Http Client](xue-xi-ji-lu/golang/chang-yong-xie-yi/https/http-client.md)

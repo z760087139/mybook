@@ -31,3 +31,9 @@ go test -bench=. -benchmem // 进行时间、内存的基准测试
 go test ./... -coverprofile=cover.out # 输出覆盖率文件到 cover.out
 go tool cover -html=cover.out -o cover.html # 读取 cover.out 文件形成 html 格式，并输出到 cover.html（不适用 -o cover.html 则直接在浏览器打开）
 ```
+
+### debug testing
+
+go test -c -o test.exe test.pkg
+
+dlv --listen=127.0.0.1:2345 --headless=true --api-version=2 exec test.exe -- -test.v -test.run FuncName
