@@ -96,4 +96,5 @@
     * [存储](xue-xi-ji-lu/yun-yuan-sheng/cka/cun-chu.md)
   * [karmada](xue-xi-ji-lu/yun-yuan-sheng/karmada/README.md)
     * [Karmada简介](xue-xi-ji-lu/yun-yuan-sheng/karmada/karmada-jian-jie.md)
+    * [核心概念](xue-xi-ji-lu/yun-yuan-sheng/karmada/he-xin-gai-nian.md)
   * [ETCD](xue-xi-ji-lu/yun-yuan-sheng/etcd.md)
