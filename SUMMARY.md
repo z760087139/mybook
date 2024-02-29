@@ -3,6 +3,7 @@
 ## 工作事项
 
 * [故障记录](README.md)
+  * [golden 数据库链接异常](gong-zuo-shi-xiang/gu-zhang-ji-lu/golden-shu-ju-ku-lian-jie-yi-chang.md)
   * [CPC内存毛刺](gong-zuo-shi-xiang/gu-zhang-ji-lu/cpc-nei-cun-mao-ci.md)
   * [CPC内存争用](gong-zuo-shi-xiang/gu-zhang-ji-lu/cpc-nei-cun-zheng-yong.md)
   * [CPC CPU过高](gong-zuo-shi-xiang/gu-zhang-ji-lu/cpc-cpu-guo-gao.md)
