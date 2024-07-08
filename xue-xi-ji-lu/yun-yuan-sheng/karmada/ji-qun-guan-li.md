@@ -86,5 +86,7 @@ Reconcil 场景返回结果
 | api-server 找不到对应集群         | 删除缓存及 informer 内容，删除 lease           | 从队列删除 |
 | 业务集群 client set 无法连接       | condition.Reason StatusCollectFailed | 延时入队  |
 | 等待 cluster controller 执行完成 | 不更新                                  | 立即入队  |
+| 离线且健康检查失败                  | 更新状态                                 | 延时入队  |
 |                            |                                      |       |
 
+补充内容：检查结果如果未达到成功健康检查或失败健康检查持续时间，将不会产生新的
