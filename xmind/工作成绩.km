@@ -1,0 +1,1190 @@
+{
+    "root": {
+        "data": {
+            "id": "d2lzim97slk0",
+            "created": 1720627423767,
+            "text": "工作业绩"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d2lziqdw22o0",
+                    "created": 1720627432757,
+                    "text": "架构设计"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2lzkynr2k00",
+                            "created": 1720627607496,
+                            "text": "高可用",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2lzkzvpb6o0",
+                                    "created": 1720627610154,
+                                    "text": "两地三中心 ",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m04ge8dzc0",
+                                            "created": 1720629135022,
+                                            "text": "数据库"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0abb9ea80",
+                                                    "created": 1720629594143,
+                                                    "text": "golden"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m15v1mvs00",
+                                                            "created": 1720632066386,
+                                                            "text": "事务级别"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m15xxuggw0",
+                                                            "created": 1720632072687,
+                                                            "text": "性能优化"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m160m7zso0",
+                                                            "created": 1720632078514,
+                                                            "text": "undo / binlog 内容"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0adgwwk80",
+                                                    "created": 1720629598838,
+                                                    "text": "etcd"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lzll9sqw00",
+                                            "created": 1720627656718,
+                                            "text": "平台架构"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2lzlmgpwn40",
+                                                    "created": 1720627659314,
+                                                    "text": "微服务领域划分"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m05oymu1s0",
+                                                            "created": 1720629232034,
+                                                            "text": "拆分依据？"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2lzlqkgud40",
+                                                    "created": 1720627668247,
+                                                    "text": "流量网关"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m06dydcx40",
+                                                            "created": 1720629286437,
+                                                            "text": "SLB 流量分发"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2lzluhauyw0",
+                                                    "created": 1720627676763,
+                                                    "text": "权限认证"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m06rqj2o00",
+                                                            "created": 1720629316438,
+                                                            "text": "平台权限"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m06sy9dy80",
+                                                            "created": 1720629319082,
+                                                            "text": "k8s权限"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m09qfjmjk0",
+                                                    "created": 1720629548690,
+                                                    "text": "服务交互方式"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m09ujjfzs0",
+                                                            "created": 1720629557638,
+                                                            "text": "gateway - http"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m09y3bkg00",
+                                                            "created": 1720629565365,
+                                                            "text": "service - grpc"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0a22moi80",
+                                                            "created": 1720629574030,
+                                                            "text": "服务集群网络"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0j9hjun40",
+                                            "created": 1720630295447,
+                                            "text": "k8s"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0jawx56g0",
+                                                    "created": 1720630298553,
+                                                    "text": "局限性"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0jddc4pc0",
+                                                            "created": 1720630303900,
+                                                            "text": "etcd"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0jf7l4800",
+                                                            "created": 1720630307905,
+                                                            "text": "controller"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2lzs8vjlsw0",
+                            "created": 1720628178284,
+                            "text": "平台框架",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2lzsc10ed40",
+                                    "created": 1720628185145,
+                                    "text": "kratos"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m0efgt1dk0",
+                                            "created": 1720629916642,
+                                            "text": "选型原因"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0ew27mcg0",
+                                                    "created": 1720629952765,
+                                                    "text": "对比 go-zero 分层约束更强"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0gu0bzcw0",
+                                            "created": 1720630105026,
+                                            "text": "代码分层"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0gyh5rio0",
+                                                    "created": 1720630114751,
+                                                    "text": "server"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0hnih9ao0",
+                                                            "created": 1720630169250,
+                                                            "text": "http"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0ho5fycg0",
+                                                            "created": 1720630170638,
+                                                            "text": "grpc"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0hpcqzvc0",
+                                                            "created": 1720630173257,
+                                                            "text": "async"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0gzyreqw0",
+                                                    "created": 1720630117992,
+                                                    "text": "service"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0hzdexe00",
+                                                            "created": 1720630195065,
+                                                            "text": "参数校验"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0i1e59ww0",
+                                                            "created": 1720630199463,
+                                                            "text": "业务结构转换"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0h3bucyg0",
+                                                    "created": 1720630125313,
+                                                    "text": "biz"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0ia52h4w0",
+                                                            "created": 1720630218505,
+                                                            "text": "业务逻辑实现"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0hf6ss200",
+                                                    "created": 1720630151129,
+                                                    "text": "repo"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0if9gxmg0",
+                                                            "created": 1720630229655,
+                                                            "text": "存储/服务调用"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0imkq88g0",
+                                                            "created": 1720630245573,
+                                                            "text": "业务数据结构转换"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0opnpusg0",
+                                            "created": 1720630722469,
+                                            "text": "框架源码"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0ov2rbb40",
+                                                    "created": 1720630734263,
+                                                    "text": "中间件设计模式"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0oxxbj6o0",
+                                                    "created": 1720630740464,
+                                                    "text": "中间件实现"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0p1pmu9s0",
+                                                            "created": 1720630748707,
+                                                            "text": "k8s 权限传递"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0pa623pc0",
+                                                            "created": 1720630767114,
+                                                            "text": "日志库"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0pb7aw140",
+                                                            "created": 1720630769366,
+                                                            "text": "trace"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2lzm48x5eo0",
+                    "created": 1720627698024,
+                    "text": "业务实施"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2lzn3iq8qo0",
+                            "created": 1720627774804,
+                            "text": "需求分析",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2lznkkil6o0",
+                                    "created": 1720627811918,
+                                    "text": "业务核心需求理解"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2lzoq9v56g0",
+                                            "created": 1720627902699,
+                                            "text": "业务能力抽象"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lzpezlg9k0",
+                                            "created": 1720627956497,
+                                            "text": "业务场景及核心测试场景"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2lzns286aw0",
+                                    "created": 1720627828226,
+                                    "text": "环境差异识别"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2lzpsiv8800",
+                                            "created": 1720627985961,
+                                            "text": "研发管理方式规定导致的环境差异"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0n98ndns0",
+                                    "created": 1720630608366,
+                                    "text": "业务全流程设计"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m0ndo92000",
+                                            "created": 1720630618016,
+                                            "text": "流程设计"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0npxyb5c0",
+                                            "created": 1720630644724,
+                                            "text": "返回设计"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0nroeaow0",
+                                            "created": 1720630648500,
+                                            "text": "交互设计"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0po89v4o0",
+                                            "created": 1720630797723,
+                                            "text": "权限控制"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2lzqy59wi80",
+                            "created": 1720628076564,
+                            "text": "概要设计",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2lzqzsrwnk0",
+                                    "created": 1720628080161,
+                                    "text": "架构适配"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m01fv5amw0",
+                                            "created": 1720628898775,
+                                            "text": "两地三中心"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m01ja1csw0",
+                                            "created": 1720628906206,
+                                            "text": "无状态服务"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0py9rrio0",
+                                                    "created": 1720630819581,
+                                                    "text": "数据存储"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0s4n29vc0",
+                                                            "created": 1720630990174,
+                                                            "text": "缓存"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0s6b33680",
+                                                            "created": 1720630993803,
+                                                            "text": "持久化"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2lzr1obwa00",
+                                    "created": 1720628084246,
+                                    "text": "服务领域规划"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m00z6m8140",
+                                            "created": 1720628862463,
+                                            "text": "如何划分服务业务领域"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m014gd0800",
+                                            "created": 1720628873936,
+                                            "text": "当业务进行扩充时，如何更新领域的范围"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2lzyy9821s0",
+                                    "created": 1720628703716,
+                                    "text": "接口交互方式设计"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2lzz92q8bk0",
+                                            "created": 1720628727268,
+                                            "text": "路由设计"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0qztp63k0",
+                                                    "created": 1720630901327,
+                                                    "text": "第三方接口管理"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0r3kylc00",
+                                                    "created": 1720630909506,
+                                                    "text": "内部服务接口管理"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0r7qbpl40",
+                                                    "created": 1720630918538,
+                                                    "text": "接口审计"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lzzbl45l40",
+                                            "created": 1720628732733,
+                                            "text": "参数设计"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0m1pjmgw0",
+                                            "created": 1720630513609,
+                                            "text": "返回设计"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0mcid06o0",
+                                            "created": 1720630537119,
+                                            "text": "protoc / google api 规范"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0q7s6v7s0",
+                                    "created": 1720630840286,
+                                    "text": "业务逻辑实现",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m0qbodzgo0",
+                                            "created": 1720630848763,
+                                            "text": "puml 时序图"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0qi8yh0o0",
+                                            "created": 1720630863068,
+                                            "text": "数据模型设计"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m0qlq0tmw0",
+                                                    "created": 1720630870630,
+                                                    "text": "校验"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0qn8q4f40",
+                                                    "created": 1720630873938,
+                                                    "text": "唯一性"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0qqbprlk0",
+                                                    "created": 1720630880649,
+                                                    "text": "数据关联 / 联动"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0quv44bk0",
+                                                    "created": 1720630890529,
+                                                    "text": "数据周期管理"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0rk6udcg0",
+                                            "created": 1720630945658,
+                                            "text": "权限管理"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0bnyfdw80",
+                                            "created": 1720629700029,
+                                            "text": "事务一致性",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2m08mxp5io0",
+                                                    "created": 1720629462716,
+                                                    "text": "任务队列"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m08o5t5hk0",
+                                                            "created": 1720629465383,
+                                                            "text": "不支持两地三中心"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m09dfi4lk0",
+                                                            "created": 1720629520389,
+                                                            "text": "redis"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "d2m09ek8geo0",
+                                                                    "created": 1720629522852,
+                                                                    "text": "使用及原理（补充）"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2m0c196a3s0",
+                                                    "created": 1720629728977,
+                                                    "text": "分布式事务未实现"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d2m0c503l280",
+                                                            "created": 1720629737136,
+                                                            "text": "DTM"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2lzss3t69s0",
+                            "created": 1720628220143,
+                            "text": "开发",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2lztdnozaw0",
+                                    "created": 1720628267058,
+                                    "text": "并发处理"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2lztizpy2w0",
+                                            "created": 1720628278669,
+                                            "text": "死锁"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lztju8fps0",
+                                            "created": 1720628280514,
+                                            "text": "上下文传递"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lztsygg800",
+                                            "created": 1720628300360,
+                                            "text": "内存溢出"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lztv6xj600",
+                                            "created": 1720628305226,
+                                            "text": "协程周期管理"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lzu1loefk0",
+                                            "created": 1720628319178,
+                                            "text": "原子性操作/竞争"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2lzvhrx2ao0",
+                                    "created": 1720628432748,
+                                    "text": "内存管理"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2lzvmyn31k0",
+                                            "created": 1720628444039,
+                                            "text": "待补充"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2lzw0smem80",
+                                    "created": 1720628474150,
+                                    "text": "常规知识"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2lzw8lvswg0",
+                                            "created": 1720628491157,
+                                            "text": "slice"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2lzwb9ulo00",
+                                                    "created": 1720628496959,
+                                                    "text": "长度"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2lzwcbh27s0",
+                                                    "created": 1720628499234,
+                                                    "text": "容量"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2lzwdt2o480",
+                                                    "created": 1720628502475,
+                                                    "text": "append 原理"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2lzwgkb4bs0",
+                                                    "created": 1720628508476,
+                                                    "text": "存储内容及原理"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lzwnz2pds0",
+                                            "created": 1720628524606,
+                                            "text": "map"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2lzwq3cifc0",
+                                                    "created": 1720628529218,
+                                                    "text": "哈希链表"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2lzxaezr6w0",
+                                            "created": 1720628573458,
+                                            "text": "channel"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d2lzxcerysg0",
+                                                    "created": 1720628577798,
+                                                    "text": "原理（待补充）"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d2lzxmn72kw0",
+                                                    "created": 1720628600075,
+                                                    "text": "数据结构"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2lzvchqgfc0",
+                            "created": 1720628421249,
+                            "text": "代码评审",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2lzveu44ow0",
+                                    "created": 1720628426351,
+                                    "text": "概要设计匹配度"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0u6ck9zc0",
+                                    "created": 1720631150621,
+                                    "text": "异常处理"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0u7nn5q00",
+                                    "created": 1720631153468,
+                                    "text": "并发竞争"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0uival9c0",
+                                    "created": 1720631177875,
+                                    "text": "单测内容覆盖"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2m0vq1w91s0",
+                            "created": 1720631271876,
+                            "text": "故障/问题记录"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2m0vt4rd540",
+                                    "created": 1720631278579,
+                                    "text": "业务问题"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m0xsmtsbs0",
+                                            "created": 1720631434223,
+                                            "text": "业务说明/教育不足，功能使用错误\n比如 调试功能使用错误导致业务断流"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0wsjzk0w0",
+                                    "created": 1720631355688,
+                                    "text": "第三方库/使用规范异常"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m0ybzh1pk0",
+                                            "created": 1720631476347,
+                                            "text": "mysql驱动 与 golden 心跳功能适配异常"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m0x793xmo0",
+                                    "created": 1720631387681,
+                                    "text": "程序问题"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2m0zh2srs00",
+                                            "created": 1720631565796,
+                                            "text": "内存毛刺"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m0zp3utyg0",
+                                            "created": 1720631583274,
+                                            "text": "内存争用导致 panic"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2m104sso080",
+                                            "created": 1720631617434,
+                                            "text": "for select default 导致的 cpu 使用率过高"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2m125gufpc0",
+                            "created": 1720631775617,
+                            "text": "排障/优化"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2m12bw7pl40",
+                                    "created": 1720631789607,
+                                    "text": "pprof"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m12ct1t6w0",
+                                    "created": 1720631791592,
+                                    "text": "prom"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m12lf158g0",
+                                    "created": 1720631810335,
+                                    "text": "applog"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2m134j7zq80",
+                    "created": 1720631851948,
+                    "text": "技术研究"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2m1377vosw0",
+                            "created": 1720631857792,
+                            "text": "kratos"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2m13d000540",
+                            "created": 1720631870376,
+                            "text": "rancher"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2m13euamhk0",
+                            "created": 1720631874385,
+                            "text": "karmada"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2m13jk2lds0",
+                            "created": 1720631884651,
+                            "text": "client-go"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2m14e348jc0",
+                                    "created": 1720631951106,
+                                    "text": "deltaFIFO"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m14j80xrk0",
+                                    "created": 1720631962287,
+                                    "text": "informer"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d2m14kvjju80",
+                                    "created": 1720631965885,
+                                    "text": "controller"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-purple",
+    "version": "1.4.43"
+}
